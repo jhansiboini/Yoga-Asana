@@ -10,10 +10,10 @@
  <li>Calorie tracking and session analytics</li>
  <li>Summary page with user stats</li>
  <li>Supports 5 yoga asanas:
-   Downward Facing Dog
-   Plank
-   Goddess Pose
-   Warrior 2
+   Downward Facing Dog,
+   Plank,
+   Goddess Pose,
+   Warrior 2,
    Tree Pose
  </li>
 </ul>
