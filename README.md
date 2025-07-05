@@ -9,13 +9,14 @@
  <li>Voice alerts and visual cues for posture correction</li>
  <li>Calorie tracking and session analytics</li>
  <li>Summary page with user stats</li>
- <ol>Supports 5 yoga asanas:
+ <li><ol>Supports 5 yoga asanas:
    <li>Downward Facing Dog</li>
    <li>Plank</li>
    <li>Goddess Pose</li>
    <li>Warrior 2</li>
    <li>Tree Pose</li>
  </ol>
+ </li>
 </ul>
 
 <h2>Tech Stack</h2>
@@ -29,6 +30,7 @@
 
 
 <h2>Screenshot of the Webpage</h2>
+<img style="width:500px;height:300px" src="">
 
 
 
