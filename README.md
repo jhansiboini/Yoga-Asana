@@ -9,13 +9,12 @@
  <li>Voice alerts and visual cues for posture correction</li>
  <li>Calorie tracking and session analytics</li>
  <li>Summary page with user stats</li>
- <li><ol>Supports 5 yoga asanas:
-   <li>Downward Facing Dog</li>
-   <li>Plank</li>
-   <li>Goddess Pose</li>
-   <li>Warrior 2</li>
-   <li>Tree Pose</li>
- </ol>
+ <li>Supports 5 yoga asanas:
+   Downward Facing Dog
+   Plank
+   Goddess Pose
+   Warrior 2
+   Tree Pose
  </li>
 </ul>
 
@@ -30,7 +29,7 @@
 
 
 <h2>Screenshot of the Webpage</h2>
-<img style="width:500px;height:300px" src="">
+<img style="width:500px;height:300px" src="https://github.com/jhansiboini/Yoga-Asana/blob/main/Screenshot.jpg">
 
 
 
