@@ -1,0 +1,35 @@
+{% extends 'base.html' %} {% block content %}
+
+<div class="title_row">
+  <div>
+    <img
+      class="home_img"
+      src="../static/img/asana.png"
+      alt="asana_aesthetics"
+    />
+  </div>
+  <div>
+    <h2 class="home_title">Asana</br>Aesthetics</h2>
+    <p class="home_text">
+      True yoga is not about the shape of your body, but the shape of your life.
+      Yoga is not to be performed; yoga is to be lived. Yoga doesn’t care about
+      what you have been; yoga cares about the person you are becoming. Yoga is
+      designed for a vast and profound purpose, and for it to be truly called
+      yoga, its essence must be embodied.
+    </p>
+    <a href="user-details-form"><button class="home_button">Get started</button></a>
+  </div>
+</div>
+
+<h2 class="asanas_title"><span class="starting_letter-2">A</span>sanas</h2>
+
+<div class="asanas_cards">
+  {% for ind in asanas %}
+  <div class="asana_card">
+    <img class="asana_card_img" src="{{asanas[ind]['imagePath']}}" alt="">
+    <p class="asana_card_title">{{asanas[ind]["title"]}}</p>
+  </div>
+  {% endfor %}
+</div>
+
+{% endblock %}
